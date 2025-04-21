@@ -1,9 +1,10 @@
 ---
-name: "Starting Your TwillCMS Blog: A Not Quite Comprehensive Guide"
-date: "2024-07-23"
+title: "Starting Your TwillCMS Blog: A Not Quite Comprehensive Guide"
+date: 2024-07-23
 tags: ['web', 'laravel', 'php']
+categories: [Programming]
 description: Learn how to start a blog with TwillCMS, from installation to customization and deployment, in this comprehensive guide.
-thumbnail: /img/norway/christoffer-engstrom-tjguVu0GoEM-unsplash.jpg
+image: "@assets/blog/norway/christoffer-engstrom-tjguVu0GoEM-unsplash.jpg"
 ---
 In today’s digital age, having a personal or professional blog is an excellent way to share your knowledge, experiences, and creativity with the world. A well-crafted blog can also enhance your online presence, whether you are a hobbyist, an entrepreneur, or a business professional. Among the many content management systems (CMS) available, TwillCMS stands out for its modern design and powerful features, especially for those familiar with Laravel. This guide will walk you through the process of starting a blog using TwillCMS, covering everything from installation to customization and deployment.
 

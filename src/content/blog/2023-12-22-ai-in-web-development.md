@@ -1,9 +1,10 @@
 ---
-name: "AI in Web Development: Separating Myth from Reality"
-date: "2023-12-22"
-tags: ['web', 'development', 'artificial intelligence']
+title: "AI in Web Development: Separating Myth from Reality"
+date: 2023-12-22
+tags: ['web', 'development', 'artificial intelligence', ai]
+categories: [Programming, AI]
 description: Explore the impact of AI in web development and learn which claims hold true in our insightful article.
-thumbnail: /img/norway/gunnar-ridderstrom-9f1kLXAUyfI-unsplash.jpg
+image: "@assets/blog/norway/gunnar-ridderstrom-9f1kLXAUyfI-unsplash.jpg"
 ---
 In the ever-evolving world of web development, there's a new buzzword making waves - AI, or Artificial Intelligence. With its potential to revolutionize the way websites are designed, developed, and maintained, it's no wonder that AI is garnering so much attention. However, as with any emerging technology, there are bound to be myths and misconceptions.
 

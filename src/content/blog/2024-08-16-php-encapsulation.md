@@ -1,9 +1,10 @@
 ---
-name: "Encapsulation in PHP"
-date: "2024-08-16"
+title: "Encapsulation in PHP"
+date: 2024-08-16
 tags: ['php']
+categories: [Programming]
 description: Learn the essentials of encapsulation in OOP PHP, its importance, benefits, and how to implement it effectively in your projects.
-thumbnail: /img/norway/joshua-kettle-xuj_mfZUGxs-unsplash.jpg
+image: "@assets/blog/norway/joshua-kettle-xuj_mfZUGxs-unsplash.jpg"
 ---
 Object-Oriented Programming (OOP) is a paradigm in software development that revolves around the concept of objects and classes. Among its core principles—encapsulation, inheritance, abstraction, and polymorphism—encapsulation plays a pivotal role in ensuring data integrity and security. This article delves into the concept of encapsulation in PHP, explaining what it is, why it’s important, and how to implement it effectively in your projects.
 

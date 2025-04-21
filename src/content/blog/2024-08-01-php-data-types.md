@@ -1,9 +1,10 @@
 ---
-name: "Basic PHP Syntax"
-date: "2024-08-02"
+title: "Basic PHP Syntax"
+date: 2024-08-02
 tags: ['php']
+categories: [Programming]
 description: Learn the basics of PHP, including syntax and essential data types, to start building dynamic web applications with ease.
-thumbnail: /img/norway/getty-images-christoffer-engstrom-q997vEoI3Jg-unsplash.jpg
+image: "@assets/blog/norway/getty-images-christoffer-engstrom-q997vEoI3Jg-unsplash.jpg"
 ---
 ### PHP Tags
 

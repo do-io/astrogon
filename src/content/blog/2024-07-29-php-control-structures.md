@@ -1,9 +1,10 @@
 ---
-name: "Control Structures in PHP"
-date: "2024-07-29"
+title: "Control Structures in PHP"
+date: 2024-07-29
 tags: ['php']
+categories: [Programming]
 description: Explore PHP's control structures, including conditionals, loops, and more, to master dynamic and responsive coding. Perfect for PHP developers!
-thumbnail: /img/norway/jeswin-thomas-I7g1FQw-J1U-unsplash.jpg
+image: "@assets/blog/norway/jeswin-thomas-I7g1FQw-J1U-unsplash.jpg"
 ---
 Control structures are essential components of programming languages, allowing developers to dictate the flow of a program. They help in making decisions, repeating actions, and branching code execution based on specific conditions. In PHP, control structures are integral to writing efficient and logical code. This article explores the different types of control structures available in PHP, including conditionals, loops, and others.
 

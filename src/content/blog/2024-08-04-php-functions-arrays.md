@@ -1,9 +1,10 @@
 ---
-name: "Functions and Arrays in PHP"
-date: "2024-08-05"
+title: "Functions and Arrays in PHP"
+date: 2024-08-05
 tags: ['php']
+categories: [Programming]
 description: Learn about functions and arrays in PHP, covering their definitions, usage, and best practices for efficient coding. Perfect for beginners and seasoned developers.
-thumbnail: /img/norway/getty-images-NeHjGhQj6Dk-unsplash.jpg
+image: "@assets/blog/norway/getty-images-NeHjGhQj6Dk-unsplash.jpg"
 ---
 PHP is a versatile scripting language widely used for web development. Two fundamental aspects of PHP programming are functions and arrays. Understanding how to work with these can significantly enhance your ability to write efficient and effective code. This article explores the concepts of functions and arrays in PHP, providing examples and best practices to help you master these essential elements.
 

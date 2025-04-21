@@ -1,9 +1,10 @@
 ---
-name: "Introduction to Object-Oriented Programming in PHP"
-date: "2024-08-08"
+title: "Introduction to Object-Oriented Programming in PHP"
+date: 2024-08-08
 tags: ['php']
+categories: [Programming]
 description: Get a taste of Object-Oriented Programming (OOP) in PHP with this overview covering classes, inheritance, polymorphism, and more.
-thumbnail: /img/norway/johny-goerend-McSOHojERSI-unsplash.jpg
+image: "@assets/blog/norway/johny-goerend-McSOHojERSI-unsplash.jpg"
 ---
 Object-Oriented Programming (OOP) is a paradigm that organizes software design around data, or objects, rather than functions and logic. PHP, a widely-used open-source scripting language, supports OOP, allowing developers to create reusable and efficient code. This overview aims to introduce the key concepts of OOP in PHP and provide practical examples to illustrate its application.
 

@@ -1,9 +1,10 @@
 ---
-name: "Introduction to PHP Abstraction"
-date: "2024-09-03"
+title: "Introduction to PHP Abstraction"
+date: 2024-09-03
 tags: ['php']
+categories: [Programming]
 description: By leveraging abstraction, you can create more organized and efficient code, ultimately leading to better software design and development practices.
-thumbnail: /img/norway/kristaps-ungurs-OaIXedoPHLA-unsplash.jpg
+image: "@assets/blog/norway/kristaps-ungurs-OaIXedoPHLA-unsplash.jpg"
 ---
 **Abstraction** is one of the four fundamental concepts in Object-Oriented Programming (OOP), along with inheritance, polymorphism, and encapsulation. In PHP, abstraction allows developers to define a blueprint for a class without providing its full implementation. This powerful concept helps in building a scalable and maintainable application by allowing developers to focus on the essential aspects of an object while hiding the unnecessary details.
 

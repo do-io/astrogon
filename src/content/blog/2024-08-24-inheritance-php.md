@@ -1,9 +1,10 @@
 ---
-name: "Understanding Inheritance in PHP"
-date: "2024-08-24"
+title: "Understanding Inheritance in PHP"
+date: 2024-08-24
 tags: ['php']
+categories: [Programming]
 description: Learn the basics of inheritance in PHP, how it promotes code reuse, enhances maintainability, and improves code organization.
-thumbnail: /img/norway/kamil-klyta-PB7NyRV8_L4-unsplash.jpg
+image: "@assets/blog/norway/kamil-klyta-PB7NyRV8_L4-unsplash.jpg"
 ---
 Inheritance is a fundamental concept in Object-Oriented Programming (OOP) that allows a class to inherit properties and methods from another class. In PHP, a popular server-side scripting language, inheritance plays a critical role in designing modular, reusable, and maintainable code. This article will provide a comprehensive guide to understanding how inheritance works in PHP, its benefits, and practical examples to illustrate its use.
 

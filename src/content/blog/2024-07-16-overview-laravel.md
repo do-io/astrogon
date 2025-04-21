@@ -1,9 +1,10 @@
 ---
-name: "Overview of Laravel: The PHP Framework for Web Artisans"
-date: "2024-07-16"
+title: "Overview of Laravel: The PHP Framework for Web Artisans"
+date: 2024-07-16
 tags: ['web', 'development', 'laravel', 'php']
+categories: [Programming]
 description: Discover Laravel, the elegant PHP framework designed for web artisans. Explore its key features, benefits, and why it's the perfect choice for your next project. Happy coding! 🌟
-thumbnail: /img/norway/daniel-mirlea-qma01Y2w66A-unsplash.jpg
+thumbnail: "@assets/blog/norway/daniel-mirlea-qma01Y2w66A-unsplash.jpg"
 ---
 In the dynamic world of web development, the right framework can significantly impact the efficiency, maintainability, and enjoyment of building applications. Laravel, introduced by Taylor Otwell in 2011, has quickly become one of the most beloved PHP frameworks. This comprehensive overview will explore Laravel’s features, benefits, and why it stands out in the crowded landscape of web development frameworks.
 

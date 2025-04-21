@@ -1,9 +1,10 @@
 ---
-name: "Introduction to Polymorphism in PHP"
-date: "2024-08-27"
+title: "Introduction to Polymorphism in PHP"
+date: 2024-08-27
 tags: ['php']
+categories: [Programming]
 description: Learn the basics of polymorphism in PHP, a key OOP concept, to create flexible and reusable code for scalable applications.
-thumbnail: /img/norway/kilian-kremer-aw3YDToLWoI-unsplash.jpg
+image: "@assets/blog/norway/kilian-kremer-aw3YDToLWoI-unsplash.jpg"
 ---
 ## 
 

@@ -1,9 +1,10 @@
 ---
-name: "Understanding the Facade Pattern in PHP"
-date: "2024-09-07"
+title: "Understanding the Facade Pattern in PHP"
+date: 2024-09-07
 tags: ['php']
+categories: [Programming]
 description: The Facade Pattern is a powerful design pattern that can help simplify complex systems and improve code readability, maintainability, and testability.
-thumbnail: /img/norway/kym-ellis-D7J47FA1n1U-unsplash.jpg
+image: "@assets/blog/norway/kym-ellis-D7J47FA1n1U-unsplash.jpg"
 ---
 The Facade Pattern is a structural design pattern that provides a simplified interface to a complex subsystem. In PHP, as in other object-oriented languages, the Facade Pattern is used to create a simpler, unified interface to a set of interfaces in a subsystem, making it easier to interact with the subsystem and hide the complexities from the client code. This pattern is particularly useful in applications where you have a complex system, and you want to expose a simpler API for the clients to interact with.
 

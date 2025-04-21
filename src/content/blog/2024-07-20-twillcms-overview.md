@@ -1,9 +1,10 @@
 ---
-name: "TwillCMS: The Modern CMS for Laravel Developers"
-date: "2024-07-20"
+title: "TwillCMS: The Modern CMS for Laravel Developers"
+date: 2024-07-20
 tags: ['web', 'laravel', 'php']
+categories: [Programming]
 description: TwillCMS is a flexible, open-source CMS for Laravel, providing a modern, user-friendly interface and powerful tools for custom content management.
-thumbnail: /img/norway/ansgar-scheffold-TQWshKgaYUg-unsplash.jpg
+thumbnail: "@assets/blog/norway/ansgar-scheffold-TQWshKgaYUg-unsplash.jpg"
 ---
 Content Management Systems (CMS) have become essential for managing digital content efficiently. Among the myriad of options available, TwillCMS stands out as a powerful and flexible CMS tailored for Laravel developers. Built by AREA 17, TwillCMS leverages the robust Laravel framework to provide an intuitive, user-friendly interface while maintaining the flexibility and power that developers need.
 
