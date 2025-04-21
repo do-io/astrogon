@@ -32,7 +32,9 @@ const { Content } = await render(entry);
             )
           }
           <h2 set:html={markdownify(title)} class="h3 mb-6" />
+          <section class="content mb-4 text-left">
             <Content />
+          </section>
         </div>
       </div>
     </div>
