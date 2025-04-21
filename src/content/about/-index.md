@@ -1,7 +1,7 @@
 ---
 title: Hey, I'm Darren Odden!
 description: This site is Darren's canvas, capturing the breadth of his interests and learnings in areas like programming, design, marketing, culinary arts, and beyond.
-image: "@assets/profile/darren-odden.png"
+image: "@assets/2022.svg"
 draft: false
 ---
 
