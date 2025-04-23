@@ -1,6 +1,6 @@
 ---
 title: "Mastering Your Content Workflow: Publishing Articles with Obsidian and Astro"
-date: 2025-04-23
+date: 2025-04-22
 tags:
   - astro
   - obsidian
