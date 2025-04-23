@@ -4,7 +4,7 @@ date: 2025-04-22
 tags:
   - astro
   - obsidian
-  - gemini 2.5 flash
+  - gemini_2_5_flash
 categories:
   - Writing
   - Programming

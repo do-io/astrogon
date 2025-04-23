@@ -1,7 +1,7 @@
 ---
 title: "AI in Web Development: Separating Myth from Reality"
 date: 2023-12-22
-tags: ['web', 'development', 'artificial intelligence', ai]
+tags: ['web', 'development', artificial_intelligence, ai]
 categories: [Programming, "Artificial Intelligence"]
 description: Explore the impact of AI in web development and learn which claims hold true in our insightful article.
 image: "@assets/blog/norway/gunnar-ridderstrom-9f1kLXAUyfI-unsplash.jpg"
