@@ -5,6 +5,7 @@ tags: [astro,obsidian]
 categories: [Writing,Programming]
 image: ""
 imageAlt: ""
+draft: true
 ---
 For writers and developers alike, finding a seamless workflow between content creation and website publication can be a game-changer. Obsidian, a powerful knowledge base and note-taking application, combined with Astro.js, a modern static site builder, offers an elegant solution for writing articles and publishing them with ease and speed. This article will detail how to leverage the strengths of both tools to create an efficient writing and publishing pipeline.
 

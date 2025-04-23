@@ -4,12 +4,13 @@ date: 2025-04-23
 tags:
   - astro
   - obsidian
+  - notebooklm
 categories:
   - Writing
   - Programming
 image: ""
 imageAlt: ""
-draft: false
+draft: true
 ---
 For anyone looking to streamline their blogging process, combining a powerful note-taking application like Obsidian with a fast, content-focused web framework like Astro can be a game-changer. Astro is described as an all-in-one web framework primarily designed for **content-driven websites** such as blogs, portfolios, and documentation sites, known for reducing JavaScript overhead and focusing on speed and SEO. It works exceptionally well for static sites and sites with content written locally in Markdown. Obsidian, on the other hand, is a private and flexible note-taking app that stores notes on disk in Markdown format, ensuring no vendor lock-in. Since Astro content can come from Markdown, and Obsidian excels at managing Markdown files, using them together presents a natural workflow.
 
