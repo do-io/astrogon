@@ -9,7 +9,7 @@ draft: true
 ---
 For writers and developers alike, finding a seamless workflow between content creation and website publication can be a game-changer. Obsidian, a powerful knowledge base and note-taking application, combined with Astro.js, a modern static site builder, offers an elegant solution for writing articles and publishing them with ease and speed. This article will detail how to leverage the strengths of both tools to create an efficient writing and publishing pipeline.
 
-### The Power Couple: Obsidian and Astro.js
+## The Power Couple: Obsidian and Astro.js
 
 Obsidian is renowned for its plain text Markdown files, robust linking capabilities, and a highly customizable environment. It allows you to write in a distraction-free interface, organize your thoughts with internal links and tags, and easily manage a large collection of notes.
 
@@ -17,7 +17,7 @@ Astro.js, on the other hand, is a static site generator built for speed and perf
 
 The natural synergy lies in Obsidian's use of Markdown. Since Astro natively understands Markdown, you can write your articles in your familiar Obsidian environment and then use Astro to transform those notes into published web pages.
 
-### Setting Up Your Workflow
+## Setting Up Your Workflow
 
 The core of this workflow involves having your Obsidian notes accessible within your Astro project structure. Several approaches can achieve this:
 
@@ -26,7 +26,7 @@ The core of this workflow involves having your Obsidian notes accessible within 
 
 Once your notes are situated where Astro can find them, you'll structure your articles using Markdown.
 
-### Writing in Markdown with Frontmatter
+## Writing in Markdown with Frontmatter
 
 Obsidian's primary format is Markdown, which is perfect for Astro. You'll write your article content using standard Markdown syntax for headings, paragraphs, lists, links, and formatting.
 
@@ -40,7 +40,7 @@ Crucially, you'll use **frontmatter** at the beginning of each Markdown file to 
 
 Astro can easily read this frontmatter, allowing you to dynamically display this information on your article pages, create index pages, or filter content (e.g., to only show published articles).
 
-### Connecting Astro to Your Obsidian Content
+## Connecting Astro to Your Obsidian Content
 
 Astro provides built-in capabilities to work with Markdown files. You can use `Astro.glob()` to programmatically import multiple Markdown files from a directory, or standard `import` statements for individual files.
 
@@ -90,17 +90,17 @@ const { Content } = await entry.render();
 ```
 *(Note: Using Astro's Content Collections, as shown in the second example, is a recommended way to manage content like blog posts.)*
 
-### Handling Assets (Images, etc.)
+## Handling Assets (Images, etc.)
 
 Managing images and other assets used in your Obsidian notes requires careful consideration to ensure they are correctly linked and included in your Astro build. A common strategy is to store your assets in a designated public or source directory within your Astro project (e.g., `public/assets` or `src/assets`).
 
 When linking images in your Obsidian notes, use paths that are relative to the location where the asset will reside in your Astro project. You might need to experiment to get the paths right, depending on your chosen folder structure and whether you're using symlinks. Some users have found success by creating a corresponding asset folder structure within their Obsidian vault that mirrors the Astro project's asset structure.
 
-### Building and Deploying
+## Building and Deploying
 
 Once your articles are written and linked in Astro, the build process is straightforward. Astro's `astro build` command will process your Markdown files, apply layouts and components, and generate static HTML files ready for deployment. These static files can be hosted on various platforms like Netlify, Vercel, GitHub Pages, or nearly any web server.
 
-### Benefits of this Workflow
+## Benefits of this Workflow
 
 This approach offers several advantages:
 
@@ -111,13 +111,3 @@ This approach offers several advantages:
 *   **Future-Proof:** Your content is stored in plain text files, making it portable and independent of any specific platform.
 
 By integrating Obsidian and Astro.js, you can create a powerful and enjoyable workflow for writing and publishing your articles, allowing you to focus on creating valuable content without getting bogged down in complex publishing processes.
-
----
-
-## Citation Links:
-
-*   [How To Use Obsidian To Write Astro Markdown Content](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAJ4A5RYt2UFL2fb5DUEfk3c-C7tjhffEAzBoIHY2kuI-hGEJKHsR3mlDKHN5qfKs7v6OXJKqovp04G4kHGt3YnW5svif9d797Qrrwi14_vYYzy_wbs7vM0J8JK6n8Jn1Y=)
-*   [Astro: writing static websites like it's 2023](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAJpdYp_IG5glBl-eMoD11fVCexZP68krTWFAZaXpV-93susgqGXVk3TbmXXOYPPfNwDRJ6LLerln2W9HcY6T9OUCsgN38J2YL66rVVGwxjPQccWvg0=)
-*   [Markdown in Astro | Docs](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAIzzfYnAIKNKpOTBcn1nlZrEvvfog4kGKKOD8iGGo48gverF_WY2lC23ybSd-AxnSAZ00UbBEUtkmB8z67rOwsP3iMM0VXW-SjT2rSdozCdjPyAL3VjPdhOrDvXU9xokBxhZQ_uAaphQAQw)
-*   [Writing blog posts with Obsidian - Jonathan Yeong](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqALX6lgcXS5R6mZBMlnjFz32Mjz1GpHqrN942teyIVhb5umKsc5IWcvLDWZKqiSeFw4ClNIa5AbBmnZTYBS54d7aB6FWYdr5qySdDFQxckL8f0Wn00x9zGvG-J3n9Gn1njDPDzQ5ZqQPTqb3EbLiUKu5g==)
-*   [Write Like a Pro with Astro and Obsidian - The Best Flutter Course On The Internet](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAK6wnnRY0SpFqKZ7PayqoGiPy27p0xlyqPYjtzMF6SnVPjNRwX7RgnM_4lXV8Z224ehdOBQ-bFe--lsVc8XJq0TBtDK57cyrY3EbgtN9DcdrPA5wbG0xzEQFFhN0G4BTwWJYwOTQ5y4k_kDvMI)
