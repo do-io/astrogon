@@ -6,8 +6,8 @@ tags:
   - laravel
 categories:
   - Programming
-image: "@assets/blog/norway/lachlan-gowen-jrMsv-0o0bw-unsplash.jpg"
-imageAlt: "Norway by Lachlan Gowen" 
+image: "@assets/blog/norway/lawrence-chismorie-t0TMPTQKsCg-unsplash.jpg"
+imageAlt: "Norway by Lawrence Chismorie" 
 draft: false
 description: Master complex Laravel database queries beyond Eloquent. Use Query Builder, raw SQL, Window Functions, and CTEs for performance & advanced logic.
 ---
