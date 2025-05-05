@@ -18,7 +18,7 @@ const { Content } = await render(entry);
   <section class="section-sm">
     <div class="container">
       <div class="row justify-center">
-        <div class="glass rounded-lg text-center p-8 md:col-10 lg:col-7 intersect:animate-fadeUp opacity-0 intersect-no-queue">
+        <div class="content glass rounded-lg text-center p-8 md:col-10 lg:col-7 intersect:animate-fadeUp opacity-0 intersect-no-queue">
           {
             image && (
               <Image
@@ -27,13 +27,13 @@ const { Content } = await render(entry);
                 alt={imageAlt}
                 width={1024}
                 height={1024}
-                style="background: lightgoldenrodyellow; border-radius: 50%; box-shadow: .25em .25em 1em rgba(0,0,0,.5);"
+                style="background: lightgoldenrodyellow; border-radius: 50%; box-shadow: .5em .5em 1em .25em rgba(0,0,0,.15);"
                 loading="eager"
               />
             )
           }
           <h2 set:html={markdownify(title)} class="h3 mb-6" />
-          <section class="content mb-4 text-left">
+          <section class="mb-4 text-left">
             <Content />
           </section>
         </div>
