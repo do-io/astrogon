@@ -27,7 +27,7 @@
     "fuse.js": "^6.6.2",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
-    "katex": "^0.16.21",
+    "katex": "^0.16.22",
     "marked": "^6.0.0",
     "prettier-plugin-astro": "^0.11.0",
     "prettier-plugin-tailwindcss": "^0.4.1",
